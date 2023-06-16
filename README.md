@@ -1,1 +1,1 @@
-Program Arduino untuk mendeteksi nilai paramater suhu
+Kumpulan projek elektronika dengan menggunakan mikrokontroller arduino 
