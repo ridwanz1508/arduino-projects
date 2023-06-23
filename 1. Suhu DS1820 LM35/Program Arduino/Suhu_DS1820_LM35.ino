@@ -1,9 +1,10 @@
-/*************************************
- * Program : Project 1 2 CH SENSOR SUHU DS1820 & LM35
- * Input   : LM35 di A0
- *           DS1820 di 10
- * Output  : LCD 2x16
- * ***********************************/
+/*
+ Program : Project SENSOR SUHU DS1820 & LM35
+ Input   : LM35 di A0
+           DS1820 di 10
+ Output  : LCD 2x16
+ */
+
 #include <OneWire.h>
 #include <Wire.h>
 #include <LiquidCrystal.h>
