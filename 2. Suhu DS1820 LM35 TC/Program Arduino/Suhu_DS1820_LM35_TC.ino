@@ -1,13 +1,14 @@
-/*************************************
- * Program : Project 2 3 Ch Sensor Suhu DS1820 LM35 TC
- * Input   : Sensor LM35 di pin A0
- *           Sensor DS1820
- *           Sensor Thermocouple (MAX6675)
- *                  SO  --> PIN 8
- *                  SCK --> PIN 10
- *                  CS --> PIN 9
- * Output  : Serial Monitor          
- * ***********************************/
+/*
+ Program : Project Sensor Suhu DS1820 LM35 TC
+ Input   : Sensor LM35 di pin A0
+           Sensor DS1820
+           Sensor Thermocouple (MAX6675)
+                  SO  --> PIN 8
+                  SCK --> PIN 10
+                  CS --> PIN 9
+ Output  : Serial Monitor          
+ */
+
 #include <OneWire.h>
 #include <Wire.h>
 #include "max6675.h"
