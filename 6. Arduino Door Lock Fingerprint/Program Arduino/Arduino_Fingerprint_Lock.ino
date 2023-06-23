@@ -1,10 +1,7 @@
 /*************************************
- * Program : Project 9. Arduino Door Lock Fingerprint
+ * Program : Arduino Door Lock Fingerprint
  * Input   : Sensor Fingerprint
  * Output  : LCD 2x16, Relay
- * 125 Proyek Arduino Inkubatek
- * www.tokotronik.com
- * ***********************************/
  
 #include <Adafruit_Fingerprint.h>
 #include <SoftwareSerial.h>
