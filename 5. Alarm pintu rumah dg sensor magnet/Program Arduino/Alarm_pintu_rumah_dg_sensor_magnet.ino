@@ -2,8 +2,6 @@
  * Program : Project 
  * Input   : Tombol Push On 
  * Output  : 2 Relay, LED
- * 125 Proyek Arduino Inkubatek
- * www.tokotronik.com
  * ***********************************/
 int inSensor = 8;
 int tbStSp = 9;
