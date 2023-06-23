@@ -1,8 +1,9 @@
-/*************************************
- * Program : Project 3 Absensi dg sidik jari
- * Input   : Sensor Fingerprint, DS1307 
- * Output  : LCD 2x16, BUZZER
- * ***********************************/
+/*
+Program : Project 3 Absensi dg sidik jari
+Input   : Sensor Fingerprint, DS1307 
+Output  : LCD 2x16, BUZZER
+*/
+
 #include <Adafruit_Fingerprint.h>
 #include <SoftwareSerial.h>
 #include <LiquidCrystal.h>
