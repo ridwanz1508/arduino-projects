@@ -1,7 +1,8 @@
-/*************************************
- * Program : Arduino Door Lock Fingerprint
- * Input   : Sensor Fingerprint
- * Output  : LCD 2x16, Relay
+/*
+Program : Arduino Door Lock Fingerprint
+Input   : Sensor Fingerprint
+Output  : LCD 2x16, Relay
+*/
  
 #include <Adafruit_Fingerprint.h>
 #include <SoftwareSerial.h>
