@@ -1,8 +1,8 @@
 /*************************************
- * Program : Project 
+ * Program : Alarm Pintu Rumah dg Sensor Magnet
  * Input   : Tombol Push On 
  * Output  : 2 Relay, LED
- * ***********************************/
+
 int inSensor = 8;
 int tbStSp = 9;
 int alarm = 10;
