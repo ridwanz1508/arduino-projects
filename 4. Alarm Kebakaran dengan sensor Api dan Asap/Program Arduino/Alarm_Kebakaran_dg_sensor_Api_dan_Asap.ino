@@ -1,8 +1,9 @@
-/*************************************
- * Program : Project 4. Alarm Kebakaran dengan sensor Api dan Asap
- * Input   : Sensor MQ-2, Sensor Flame
- * Output  : LCD 2x16, 2 Relay
- * ***********************************/
+/*
+Program : Alarm Kebakaran dengan sensor Api dan Asap
+Input   : Sensor MQ-2, Sensor Flame
+Output  : LCD 2x16, 2 Relay
+*/
+
 #include <LiquidCrystal.h>
 LiquidCrystal lcd(2, 3, 4, 5, 6, 7);
 
