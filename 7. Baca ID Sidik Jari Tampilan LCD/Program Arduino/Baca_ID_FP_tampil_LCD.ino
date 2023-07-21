@@ -1,10 +1,9 @@
-/*************************************
- * Program : Project 11. Baca ID Sidik Jari Tampilan LCD
- * Input   : Sensor Fingerprint
- * Output  : LCD 2x16
- * 125 Proyek Arduino Inkubatek
- * www.tokotronik.com
- * ***********************************/
+/*
+ Program : Project 11. Baca ID Sidik Jari Tampilan LCD
+ Input   : Sensor Fingerprint
+ Output  : LCD 2x16
+ */
+
 #include <Adafruit_Fingerprint.h>
 #include <SoftwareSerial.h>
 #include <LiquidCrystal.h>
